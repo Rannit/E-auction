@@ -1,7 +1,7 @@
 # E-auction
 <p>Create an user account<p/>
-<p>Edit user account informationt<p/>
-<p>Create a new auctiont<p/>
-<p>Edit an existing auctiont<p/>
-<p>Bidt<p/>
-<p>Resolve an auctiont<p/>
+<p>Edit user account information<p/>
+<p>Create a new auction<p/>
+<p>Edit an existing auction<p/>
+<p>Bid<p/>
+<p>Resolve an auction<p/>
