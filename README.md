@@ -1,10 +1,7 @@
 # E-auction
-Simulate the operating process of bidding.
-AuctionInformation management, transaction management, bidder management, statistics management.
-Hope to implement the following use cases:
-Create an user account
-Edit user account information
-Create a new auction
-Edit an existing auction
-Bid
-Resolve an auction
+<p>Create an user account<p/>
+<p>Edit user account informationt<p/>
+<p>Create a new auctiont<p/>
+<p>Edit an existing auctiont<p/>
+<p>Bidt<p/>
+<p>Resolve an auctiont<p/>
